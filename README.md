@@ -1,4 +1,3 @@
 # ABOUT
 
-This is a web browser based game with physics using java script.
-Following FreeCodeCamp tutorial.
+This is a web browser based animated game projecz with physics using JavaScript following a FreeCodeCamp tutorial.
